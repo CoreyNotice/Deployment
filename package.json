@@ -1,10 +1,9 @@
 {
-  "name": "deployment",        
+  "name": "deployment",
   "version": "1.0.0",
   "engines": {
     "node": "14.15.4"
   },
-  
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -15,8 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "react-scripts": "^5.0.1"
   }
-  
-  
 }
