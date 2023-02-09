@@ -5,7 +5,7 @@ const PORT=process.env.PORT
 
 
 app.get('/',(req,res)=>{
-    res.send('Hello ,World!Its Corey.')
+    res.send('Hello ,World!Its Corey!')
 })
 
 app.listen(PORT,()=>console.log(`Server is running in port ${PORT}`))
